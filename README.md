@@ -5,7 +5,7 @@
 <h3 align="center">
     Passionate about data science and data analysis. I recently graduated in Computer Programming from Niagara College Toronto. I have created several projects, including the StayEasy housing app, Habit Tracker, Talent Management System, Global News, and TextUtils. I love working with data, discovering insights, and building smart solutions. I am constantly learning new tools and technologies to grow as a future data analyst. Beyond tech, I enjoy exploring nature and believe in always learning and evolving.
 </h3>
----
+
 
 ### 🌐 Connect with me:
 [![Twitter Badge](https://img.shields.io/twitter/follow/iamnitesh123456?logo=twitter&style=for-the-badge)](https://twitter.com/iamnitesh123456)

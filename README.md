@@ -1,4 +1,4 @@
-# Hi 👋, I'm Nitesh Khatiwada
+<p> Hi 👋, I'm Nitesh Khatiwada</p>
 
 <img src="https://ps3-4k-pro.github.io/home/media/img/coding.gif" alt="Workplace" width="500" />
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitesh Khatiwada</h1>
-<h3 align="center">passionate about data science and data analysis. I recently graduated in Computer Programming from Niagara College Toronto. I have created several projects, including the StayEasy housing app, Habit Tracker, Talent Management System, Global News, and TextUtils. I love working with data, discovering insights, and building smart solutions. I am constantly learning new tools and technologies to grow as a future data analyst. Beyond tech, I enjoy exploring nature and believe in always learning and evolving.</h3>
+<h3 align="center">Passionate about data science and data analysis. I recently graduated in Computer Programming from Niagara College Toronto. I have created several projects, including the StayEasy housing app, Habit Tracker, Talent Management System, Global News, and TextUtils. I love working with data, discovering insights, and building smart solutions. I am constantly learning new tools and technologies to grow as a future data analyst. Beyond tech, I enjoy exploring nature and believe in always learning and evolving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codebynitesh0723&label=Profile%20views&color=0e75b6&style=flat" alt="codebynitesh0723" /> </p>
 

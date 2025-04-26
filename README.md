@@ -1,12 +1,10 @@
-<p> Hi 👋, I'm Nitesh Khatiwada</p>
+<h1 align="center">Hi 👋, I'm Nitesh Khatiwada</h1> 
 
-<img src="https://ps3-4k-pro.github.io/home/media/img/coding.gif" alt="Workplace" width="500" />
+<img src="https://ps3-4k-pro.github.io/home/media/img/coding.gif" alt="Workplace" usemap="#workmap">
 
-Passionate about data science and data analysis. I recently graduated in Computer Programming from Niagara College Toronto.
-I have created several projects, including the StayEasy housing app, Habit Tracker, Talent Management System, Global News,
-and TextUtils. I love working with data, discovering insights, and building smart solutions. I am constantly learning new tools
-and technologies to grow as a future data analyst. Beyond tech, I enjoy exploring nature and believe in always learning and evolving.
-
+<h3 align="center">
+    Passionate about data science and data analysis. I recently graduated in Computer Programming from Niagara College Toronto. I have created several projects, including the StayEasy housing app, Habit Tracker, Talent Management System, Global News, and TextUtils. I love working with data, discovering insights, and building smart solutions. I am constantly learning new tools and technologies to grow as a future data analyst. Beyond tech, I enjoy exploring nature and believe in always learning and evolving.
+</h3>
 ---
 
 ### 🌐 Connect with me:
